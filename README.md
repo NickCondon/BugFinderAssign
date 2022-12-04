@@ -2,7 +2,7 @@
 This script takes 3-colour images and finds bacteria (channel 2) and assigns them to a cell (macrophage) before measuring their internsity, size, and
 shape descriptors before saving the outputs to a spreadsheet.
 
-Developed by Dr Nicholas Condon.
+Developed by Dr Nicholas Condon for Jessica von Pein.
 
 [ACRF:Cancer Biology Imaging Facility](https://imb.uq.edu.au/microscopy), 
 Institute for Molecular Biosciences, The University of Queensland
